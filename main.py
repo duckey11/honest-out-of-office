@@ -11,7 +11,7 @@ import os
 ENTRY = (
     "I'm away until Monday, and honestly your email joins the 214 "
     "messages I've been avoiding since Tuesday, so please resend it "
-    "then, because I plan to return pretending this inbox never existed."
+    "then, because I plan to return pretending this inbox isn't mine."
 )
 
 
